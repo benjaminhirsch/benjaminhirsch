@@ -2,6 +2,7 @@
 - 👀 I’m interested in everything related to tech, gaming and programming
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: https://www.benjaminhirsch.net
+- <a rel="me" href="https://mastodon.social/@benjaminhirsch">You can find me also on Mastodon</a>
 
 <!---
 benjaminhirsch/benjaminhirsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
